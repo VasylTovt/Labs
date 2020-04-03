@@ -1,0 +1,7 @@
+C:\Users\lotziko\Dropbox\university\DiskretniModeli\Labs\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\lotziko\Dropbox\university\DiskretniModeli\Labs\Lab4\bin\Debug\Lab4.exe
+C:\Users\lotziko\Dropbox\university\DiskretniModeli\Labs\Lab4\bin\Debug\Lab4.pdb
+C:\Users\lotziko\Dropbox\university\DiskretniModeli\Labs\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\lotziko\Dropbox\university\DiskretniModeli\Labs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\lotziko\Dropbox\university\DiskretniModeli\Labs\Lab4\obj\Debug\Lab4.exe
+C:\Users\lotziko\Dropbox\university\DiskretniModeli\Labs\Lab4\obj\Debug\Lab4.pdb
